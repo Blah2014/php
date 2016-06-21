@@ -2,7 +2,7 @@
 PHP related stuff
 
 ### Index
-* [Mac PHP XDebug Downloads](#mac PHP XDebug Downloads)
+* [Mac PHP XDebug Downloads](#mac-php-xdebug-downloads)
 * [Sentiment Analysis](#sentiment-analysis)
 
 ### Sentiment Analysis
