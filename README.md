@@ -17,6 +17,7 @@ PHP related stuff
 * [Mac PHP XDebug Downloads](#mac-php-xdebug-downloads)
 * [XDebug Wizard](#xdebug-wizard)
 * [Sentiment Analysis](#sentiment-analysis)
+* [jsonp_decode.php](#user-content-jsonp_decodephp)
 
 ### Mac PHP XDebug Downloads
 [Mac PHP XDebug Remote Debugging Package Downloads](http://code.activestate.com/komodo/remotedebugging/)
