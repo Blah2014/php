@@ -19,7 +19,7 @@ PHP related stuff
 * [Sentiment Analysis](#sentiment-analysis)
 * [jsonp_decode.php](#user-content-jsonp_decodephp)
 
-#### PHP HTTP clients
+##### PHP HTTP clients
 * [Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services](#user-content-guzzle-is-a-php-http-client-that-makes-it-easy-to-send-http-requests-and-trivial-to-integrate-with-web-services)
 * [Goutte is a screen scraping and web crawling library for PHP](#user-content-goutte-is-a-screen-scraping-and-web-crawling-library-for-php)
 
