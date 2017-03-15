@@ -19,7 +19,11 @@ PHP related stuff
 * [Sentiment Analysis](#sentiment-analysis)
 * [jsonp_decode.php](#user-content-jsonp_decodephp)
 
-### Mac PHP XDebug Downloads
+#### PHP HTTP clients
+* [Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services](#user-content-guzzle-is-a-php-http-client-that-makes-it-easy-to-send-http-requests-and-trivial-to-integrate-with-web-services)
+* [Goutte is a screen scraping and web crawling library for PHP](#user-content-goutte-is-a-screen-scraping-and-web-crawling-library-for-php)
+
+### Mac PHP XDebug Downloads#
 [Mac PHP XDebug Remote Debugging Package Downloads](http://code.activestate.com/komodo/remotedebugging/)
 
 ### XDebug Wizard
@@ -36,3 +40,8 @@ PHP related stuff
    echo $json['count'];
 ?>
 ```
+
+### Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services
+[Guzzle](https://github.com/guzzle/guzzle)
+### Goutte is a screen scraping and web crawling library for PHP
+[Goutte](https://github.com/FriendsOfPHP/Goutte)
