@@ -18,6 +18,7 @@ PHP related stuff
 * [XDebug Wizard](#xdebug-wizard)
 * [Sentiment Analysis](#sentiment-analysis)
 * [jsonp_decode.php](#user-content-jsonp_decodephp)
+* [PayPal REST API SDK for PHP]()
 
 ##### PHP HTTP clients
 * [Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services](#user-content-guzzle-is-a-php-http-client-that-makes-it-easy-to-send-http-requests-and-trivial-to-integrate-with-web-services)
@@ -45,3 +46,8 @@ PHP related stuff
 [Guzzle](https://github.com/guzzle/guzzle)
 ### Goutte is a screen scraping and web crawling library for PHP
 [Goutte](https://github.com/FriendsOfPHP/Goutte)
+
+### PayPal REST API SDK for PHP
+* [REST API SDK for PHP](https://github.com/paypal/PayPal-PHP-SDK)
+* [REST API Samples](http://paypal.github.io/PayPal-PHP-SDK/sample/)
+
