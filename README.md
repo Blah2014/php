@@ -18,7 +18,7 @@ PHP related stuff
 * [XDebug Wizard](#xdebug-wizard)
 * [Sentiment Analysis](#sentiment-analysis)
 * [jsonp_decode.php](#user-content-jsonp_decodephp)
-* [PayPal REST API SDK for PHP]()
+* [PayPal REST API SDK for PHP](#paypal-rest-api-sdk-for-php)
 
 ##### PHP HTTP clients
 * [Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services](#user-content-guzzle-is-a-php-http-client-that-makes-it-easy-to-send-http-requests-and-trivial-to-integrate-with-web-services)
