@@ -15,6 +15,7 @@ PHP related stuff
 * [Sentiment Analysis](#sentiment-analysis)
 * [jsonp_decode.php](#user-content-jsonp_decodephp)
 * [PayPal REST API SDK for PHP](#paypal-rest-api-sdk-for-php)
+* [JSON Web Token Authentication for Laravel & Lumen](#user-content-json-web-token-authentication-for-laravel--lumen)
 
 ##### PHP HTTP clients
 * [Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services](#user-content-guzzle-is-a-php-http-client-that-makes-it-easy-to-send-http-requests-and-trivial-to-integrate-with-web-services)
@@ -47,3 +48,5 @@ PHP related stuff
 * [REST API SDK for PHP](https://github.com/paypal/PayPal-PHP-SDK)
 * [REST API Samples](http://paypal.github.io/PayPal-PHP-SDK/sample/)
 
+### JSON Web Token Authentication for Laravel & Lumen
+[JSON Web Token Authentication for Laravel & Lumen](https://github.com/tymondesigns/jwt-auth)
