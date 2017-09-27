@@ -17,6 +17,7 @@ PHP related stuff
 * [PayPal REST API SDK for PHP](#paypal-rest-api-sdk-for-php)
 * [JSON Web Token Authentication for Laravel & Lumen](#user-content-json-web-token-authentication-for-laravel--lumen)
 * [Encryption](#encryption)
+* [HTTPS](#https)
 
 ##### PHP HTTP clients
 * [Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services](#user-content-guzzle-is-a-php-http-client-that-makes-it-easy-to-send-http-requests-and-trivial-to-integrate-with-web-services)
@@ -54,3 +55,7 @@ PHP related stuff
 
 ### Encryption
 * [php-openssl-cryptor](https://github.com/ioncube/php-openssl-cryptor)
+
+### HTTPS
+* [Acme PHP](https://acmephp.github.io/)
+* [Let’s Encrypt is a free, automated, and open](https://letsencrypt.org/)
