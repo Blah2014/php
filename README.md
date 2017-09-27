@@ -57,5 +57,6 @@ PHP related stuff
 * [php-openssl-cryptor](https://github.com/ioncube/php-openssl-cryptor)
 
 ### HTTPS
+* [SSL FOR FREE](https://www.sslforfree.com)
 * [Acme PHP](https://acmephp.github.io/)
 * [Let’s Encrypt is a free, automated, and open](https://letsencrypt.org/)
